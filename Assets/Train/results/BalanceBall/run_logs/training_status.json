@@ -1,0 +1,29 @@
+{
+    "BalanceBall": {
+        "checkpoints": [
+            {
+                "steps": 499909,
+                "file_path": "results\\BalanceBall\\BalanceBall\\BalanceBall-499909.nn",
+                "reward": null,
+                "creation_time": 1604849128.454547
+            },
+            {
+                "steps": 500909,
+                "file_path": "results\\BalanceBall\\BalanceBall\\BalanceBall-500909.nn",
+                "reward": null,
+                "creation_time": 1604849130.1713111
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500909,
+            "file_path": "results\\BalanceBall\\BalanceBall.nn",
+            "reward": null,
+            "creation_time": 1604849130.1713111
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

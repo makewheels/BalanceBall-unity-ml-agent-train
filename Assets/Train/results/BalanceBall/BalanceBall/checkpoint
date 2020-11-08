@@ -1,0 +1,3 @@
+model_checkpoint_path: "BalanceBall-500909.ckpt"
+all_model_checkpoint_paths: "BalanceBall-499909.ckpt"
+all_model_checkpoint_paths: "BalanceBall-500909.ckpt"
